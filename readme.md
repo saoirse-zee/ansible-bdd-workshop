@@ -1,4 +1,4 @@
-# Installtion of pre-requisite tools
+# Installation of pre-requisite tools
 
 ## Vagrant
 [Vagrant install](https://www.vagrantup.com/downloads.html)
