@@ -1,0 +1,8 @@
+#!/usr/bin/env ansible-playbook
+---
+- hosts: ansible
+  become: true
+
+  roles:
+    - common
+    - users
