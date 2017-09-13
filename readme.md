@@ -19,9 +19,6 @@ A very good idea to use one of these, makes life easier.
 ## Ansible
 [Ansible install](http://docs.ansible.com/ansible/latest/intro_installation.html#installation)
 
-## Ansible plugin for Vagrant
-[Plugin install](https://www.vagrantup.com/docs/provisioning/ansible.html)
-
 ## Bundler
 [Bundler install](http://bundler.io/)
 
@@ -31,5 +28,6 @@ A very good idea to use one of these, makes life easier.
 ```
 gem install bundler
 bundle
+vagrant plugin install ansible #Install the Ansible plugin for Vagrant
 ```
 
